@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T17:59:22.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="x0Pmy6lH58ua2D2Tep6o" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T18:10:50.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="s23fZsXGZRURjX32bB12" version="22.1.3" type="github">
   <diagram name="Page-1" id="O9j_--BFbLTigHQKA7fX">
-    <mxGraphModel dx="922" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1127" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,68 +91,71 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="40" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-27" value="Update User Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="40" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="200" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mgWtDV1-bVqsuw-AFsS7-28" target="mgWtDV1-bVqsuw-AFsS7-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="240" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-28" value="Update Employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="200" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="760" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-29" value="Delete Employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="240" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="160" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-31" value="Create Training Program" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="760" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="440" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-33" value="Add Employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="160" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="80" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-34" value="View Leave Requests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="440" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="320" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-35" value="Deactivate User Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="80" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="360" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-36" value="View Attendance Records" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="320" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="480" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-37" value="Edit Attendance Records" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="360" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="520" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-38" value="Approve Leave Requests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="480" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="600" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-39" value="Reject Leave Requests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="520" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="640" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-40" value="Generate Attendance Report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="600" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="680" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-41" value="Generate Leave Report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="640" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="800" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-42" value="Generate Performance Report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="680" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="840" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-43" value="Update Training Program" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="800" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="920" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-44" value="Delete Training Program" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="840" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="960" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-45" value="Send Announcement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="920" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1000" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-46" value="Send Message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="960" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-47" value="Share Document" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1000" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mgWtDV1-bVqsuw-AFsS7-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1080" width="100" height="30" as="geometry" />
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-54" value="Create User Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mgWtDV1-bVqsuw-AFsS7-55" value="Configure System Settings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1080" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mgWtDV1-bVqsuw-AFsS7-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="mgWtDV1-bVqsuw-AFsS7-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
